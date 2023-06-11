@@ -1,5 +1,7 @@
 
-# Uzaki-chan Wants to Hang Out! Text Analytics
+![logo](https://github.com/rakimreid/Uzaki-Chan-Text-Analytics/assets/23224784/4f76c8b7-3694-41aa-ad25-7e9207d84d7d)
+
+
 
 # Dashboard
 
